@@ -6,3 +6,6 @@ AI and related technologies have had a positive impact on the way the IT sector 
 
 The digital transformation and adoption of AI technologies by industries has given rise to new advancements to solve and optimize many core challenges in the IT industry. Among all tech applications, AI sits at the core of development for almost every industry, with Information Technology being among the first. If the development and deployment of IT systems at large scale were next to impossible, through AI’s development of advanced algorithmic functions this is now possible.
 
+### Comments
+
+> Soumen : Very interesting read about AI and its significance!
